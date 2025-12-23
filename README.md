@@ -24,7 +24,7 @@ CSS3
 
 👉 https://praveenrathore007.github.io/MY-GALLERY-/
 
-(Yahan apna actual GitHub Pages link paste karna)
+
 
 🎯 Project Objective
 
