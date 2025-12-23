@@ -22,7 +22,7 @@ CSS3
 
 🌐 Live Demo
 
-👉 https://your-username.github.io/my-gallery/
+👉 https://praveenrathore007.github.io/MY-GALLERY-/
 
 (Yahan apna actual GitHub Pages link paste karna)
 
